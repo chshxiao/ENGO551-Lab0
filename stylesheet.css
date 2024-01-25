@@ -1,0 +1,38 @@
+* {
+  background-color: bisque;
+}
+
+p, ul {
+  text-indent: 5%;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+figcaption {
+  color:gray;
+  text-align: center;
+}
+
+table {
+  margin: auto;
+  text-align: center;
+  border-collapse: collapse;
+  padding: 10px;
+}
+
+th, td, table {
+  border: 2px solid black;
+}
+
+#overall_heading {
+  font-family:'Courier New', Courier, monospace;
+  font-style: italic;
+}
+
+.fig_center {
+  display: block;
+  margin-left: 25%;
+  margin-right: 25%;
+  width: 50%;
+}
+
