@@ -2,7 +2,7 @@
 
 This is the ENGO551 Lab0 webpage created by Chunsheng Xiao.
 
-The first page is an introduction of myself. Two headers are h1 and h2 respectively. I used the scss variable to set them both blue. The enlarged first word of each paragraph is achieved by scss inheritance. Another derived style class is the hyerper link format below.
+The main page is AboutMyself.html. Two headers are h1 and h2 respectively. I used the scss variable to set them both blue. The enlarged first word of each paragraph is achieved by scss inheritance. Another derived style class is the hyerper link format below.
 
 The biking page is a page about my biking hobby. On the upper left corner, there's a Back linkto go back to the introduction page. This hyperlink is available at every page except the introduction. Here, we will go to the third page.
 
